@@ -40,14 +40,6 @@ My research experience includes adversarial attacks against deepfake detectors w
 | 🥇 **AADD-2026 Grand Challenge · ACM Multimedia** | Member of **FakeBusters UNISA**, the first-place team working on adversarial robustness of deepfake detectors. |
 | 🥈 **Google Challenge Campania · 2026** | Team leader for **Aura — the immortality of ideas**, a multidisciplinary project using generative AI. |
 
-## Selected work
-
-| Project | What I explored |
-| :--- | :--- |
-| **Multimodal Synthetic Image Detection**<br /><sub>Code: TODO_REPO_01</sub> | Image–text fusion with **CLIP**, semi-hard triplet loss, and SVM classification. **91.25% test accuracy** on ProGAN and CycleGAN data. |
-| **LLM-Based VGDL Code Generation**<br /><sub>Code: TODO_REPO_02</sub> | Natural language to game-description code: zero-shot prompting, **QLoRA** fine-tuning, and evaluation through parser-based executability and structural similarity. |
-| **Neural Steganalysis**<br /><sub>Code: TODO_REPO_03</sub> | Comparing classical and neural methods across spatial and frequency domains, including **DCT, XuNet, and YeNet**. |
-| **Semantic Academic Search**<br /><sub>Code: TODO_REPO_04</sub> | Scientific-paper search and recommendation with **Sentence Transformers**, HNSW vector indexing, Flask, and MongoDB. |
 
 ## Publications
 
@@ -92,8 +84,6 @@ Gerardo Iovane, **Antonio Landi**, Mattia Maucioni, Antonio De Rosa, Alessio Ros
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<details>
-<summary><b>More of my toolkit: web, databases, tools & design</b></summary>
 
 **Web Technologies**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -136,7 +126,6 @@ Gerardo Iovane, **Antonio Landi**, Mattia Maucioni, Antonio De Rosa, Alessio Ros
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-</details>
 
 ## Let's connect
 
